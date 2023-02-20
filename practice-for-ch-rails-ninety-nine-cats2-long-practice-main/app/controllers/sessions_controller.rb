@@ -21,4 +21,6 @@ class SessionsController < ApplicationController
         session[:session_token] = nil 
 
     end
+
+    
 end
